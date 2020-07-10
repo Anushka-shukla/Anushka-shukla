@@ -1,7 +1,7 @@
 # AnushkaShukla
 
 <p align="center">
-  <img width="900" height="450" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/images/george-prentzas-SRFG7iwktDk-unsplash.jpg">
+  <img width="900" height="450" src="https://github.com/Anushka-shukla/AnushkaShukla/blob/master/new%20.png">
 </p>
 
 Twitter LinkedIn tagsssss medium 
