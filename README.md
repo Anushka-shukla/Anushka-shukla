@@ -1,13 +1,11 @@
-# AnushkaShukla
+[![Twitter Badge](http://img.shields.io/badge/-@https://twitter.com/anushka4120-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/imanishbarnwal)](https://twitter.com/imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/https://www.linkedin.com/in/anushka-shukla-055b3a169/-blue?
 
 <p align="center">
-  <img width="1000" height="450" src="https://github.com/Anushka-shukla/AnushkaShukla/blob/master/new%20.png">
+  <img width="1005" height="450" src="https://github.com/Anushka-shukla/AnushkaShukla/blob/master/new%20.png">
 </p>
 
-Twitter LinkedIn tagsssss medium 
-
-###### Hey there !
+#### Hey there !:orange_heart:
 
 I am Anushka Shukla. I am an Engineering student at Sharda University. I love exploring new tech stuff, and try as much as possible so as to find my niche.
 
-Interesting fact about me : I have been fascinated by radical deconstructivist designs in the buildings. I love the way they are finely structured.
+Interesting fact about me : I have been fascinated by radical deconstructivist designs :classical_building: in the buildings. I love the way they are finely structured.
