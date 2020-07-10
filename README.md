@@ -1,7 +1,7 @@
 # AnushkaShukla
 
 <p align="center">
-  <img width="900" height="450" src="https://github.com/Anushka-shukla/AnushkaShukla/blob/master/new%20.png">
+  <img width="1000" height="450" src="https://github.com/Anushka-shukla/AnushkaShukla/blob/master/new%20.png">
 </p>
 
 Twitter LinkedIn tagsssss medium 
