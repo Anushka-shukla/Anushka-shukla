@@ -1,6 +1,9 @@
 ![Hello](Hello.gif)
 <img src= "https://github.com/Anushka-shukla/Anushka-shukla/blob/master/Anushka.png" width=300>
 
+ ## Reach Me <strong>(Click the badge to view my profiles !)</strong>
+
+<a href="https://www.linkedin.com/in/anushka-055b3a169/"><img src="https://img.shields.io/badge/Anushka-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://medium.com/@yobasu2015"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
 [![Twitter Badge](http://img.shields.io/badge/-@anushka-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/anushka4120)](https://twitter.com/anushka4120) [![Linkedin Badge](https://img.shields.io/badge/-Anushka-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anushka-shukla-055b3a169/)](https://www.linkedin.com/in/anushka-shukla-055b3a169/)
 
