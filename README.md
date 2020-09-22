@@ -3,9 +3,10 @@
 
  ## Find Me At <strong>(Click the badge to view my profiles !)</strong>
 
-<a href="https://www.linkedin.com/in/anushka-055b3a169/"><img src="https://img.shields.io/badge/Anushka-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://medium.com/@shuklaannushka"><img src="https://img.shields.io/badge/@shuklaannushka-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anushka-055b3a169/"><img src="https://img.shields.io/badge/Anushka-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href= "https://twitter.com/anushka4120"><img src="https://img.shields.io/badge/anushka4120-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" > </a>
+<a  href="https://medium.com/@shuklaannushka"><img src="https://img.shields.io/badge/@shuklaannushka-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
-[![Twitter Badge](http://img.shields.io/badge/-@anushka-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/anushka4120)](https://twitter.com/anushka4120) [![Linkedin Badge](https://img.shields.io/badge/-Anushka-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anushka-shukla-055b3a169/)](https://www.linkedin.com/in/anushka-shukla-055b3a169/)
 
 <p align="center">
   <img width="1005" height="400" src="https://github.com/Anushka-shukla/AnushkaShukla/blob/master/new%20.png">
