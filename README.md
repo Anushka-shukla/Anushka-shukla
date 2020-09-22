@@ -11,6 +11,6 @@
 
 <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"><img src ="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"><img src ="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"><img src ="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white">
 
-I am **Anushka Shukla**🦄. I am an Engineering:computer: student at Sharda University. I love exploring new tech stuff, and try as much as possible so as to find my niche.
+<img src="https://github-readme-stats.vercel.app/api?username=Anushka-shukla&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
-**Interesting fact about me** : I have been fascinated by ***radical deconstructivist designs*** :classical_building: in the buildings. I love the way they are finely structured.
+
