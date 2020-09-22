@@ -1,6 +1,5 @@
 ![Hello](Hello.gif)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-![](https://github.com/Anushka-shukla/Anushka-shukla/blob/master/Anushka.png|width=100)
+<img src= "https://github.com/Anushka-shukla/Anushka-shukla/blob/master/Anushka.png" width=100>
 
 
 [![Twitter Badge](http://img.shields.io/badge/-@anushka-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/anushka4120)](https://twitter.com/anushka4120) [![Linkedin Badge](https://img.shields.io/badge/-Anushka-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anushka-shukla-055b3a169/)](https://www.linkedin.com/in/anushka-shukla-055b3a169/)
