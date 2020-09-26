@@ -1,11 +1,18 @@
 ![Hello](Hello.gif)
 <img src= "https://github.com/Anushka-shukla/Anushka-shukla/blob/master/Anushka.png" width=300>
 
- ## Find Me At <strong>(Click the badge to view !)</strong>
-
-<a href="https://www.linkedin.com/in/anushka-055b3a169/"><img src="https://img.shields.io/badge/Anushka-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-<a href= "https://twitter.com/anushka4120"><img src="https://img.shields.io/badge/anushka4120-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" > </a>
-<a  href="https://medium.com/@shuklaannushka"><img src="https://img.shields.io/badge/@shuklaannushka-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://twitter.com/anushka4120">
+  <img align="left" alt="Anushka's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anushka-055b3a169/">
+  <img align="left" alt="Anushka's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Anushka-shukla">
+  <img align="left" alt="Anushka's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://medium.com/@shuklaannushka">
+  <img align="left" alt="Anushka's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/medium.svg" />
+</a>
 
 ## Tools I work upon 🛠
 
