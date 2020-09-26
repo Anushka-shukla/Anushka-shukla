@@ -17,9 +17,6 @@
 <br/>
 
 <a href="https://github.com/Anushka-shukla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-shukla&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/Anushka-shukla">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-shukla&show_icons=true&theme=light&line_height=27" alt="Anushka's github stats"/>
 </a>
 
