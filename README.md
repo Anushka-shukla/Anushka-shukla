@@ -1,5 +1,5 @@
 ![Hello](Hello.gif)
-<img src= "https://github.com/Anushka-shukla/Anushka-shukla/blob/master/Anushka.png" width=300>
+I'm Anushka
 
 <a href="https://twitter.com/anushka4120">
   <img align="left" alt="Anushka's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -13,7 +13,7 @@
 <a href="https://medium.com/@shuklaannushka">
   <img align="left" alt="Anushka's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/medium.svg" />
 </a>
-
+<br>
 ## Tools I work upon 🛠
 
 <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"><img src ="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"><img src ="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"><img src ="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white">
