@@ -1,6 +1,10 @@
 ![Hello](Hello.gif)
 ## Anushka
-==oooh fancy==
+
+Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
 <a href="https://twitter.com/anushka4120">
   <img align="left" alt="Anushka's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
