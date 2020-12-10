@@ -1,6 +1,6 @@
 ![Hello](Hello.gif)
 ## Anushka
-==Hey you! yes you... Smile If you have't==
+==oooh fancy==
 
 <a href="https://twitter.com/anushka4120">
   <img align="left" alt="Anushka's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
