@@ -20,10 +20,3 @@ Kanye West said:
 </a>
 
 <br/>
-
-<a href="https://github.com/Anushka-shukla">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anushka-shukla&show_icons=true&theme=light&line_height=27" alt="Anushka's github stats"/>
-</a>
-
-
-
