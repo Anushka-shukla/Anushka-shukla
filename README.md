@@ -2,7 +2,7 @@
 ## Hey there, I'm Anushka
 
 - 🌱 I’m currently learning Blockchain and preparing DSA.
-- 👨‍💻 You can read about me here 
+- 👨‍💻 You can read about me [here](https://anushka-shukla.github.io/) 
 - 📝 Sometimes I write blogs on [Medium](https://medium.com/@shuklaannushka), if you like them don't hesitate to hit the clap :grin:. 
 
 ## Connect with me
