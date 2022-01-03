@@ -15,7 +15,7 @@
 <a href="https://github.com/Anushka-shukla">
   <img align="left" alt="Anushka's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://medium.com/@shuklaannushka">
+<a href="https://medium.com/@anushka-shukla">
   <img align="left" alt="Anushka's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/medium.svg" />
 </a>
 
