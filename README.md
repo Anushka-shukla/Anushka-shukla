@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning development and DSA.
 - 👨‍💻 You can read about me [here](https://anushka-shukla.github.io/) 
-- 📝 Sometimes I write blogs on [Medium](https://medium.com/@shuklaannushka), if you like them don't forget to hit the applaud :grin:. 
+- 📝 Sometimes I write blogs on [Medium](https://medium.com/@anushka-shukla), if you like them don't forget to hit the applaud :grin:. 
 
 ## Connect with me
 <a href="https://twitter.com/anushka4120">
