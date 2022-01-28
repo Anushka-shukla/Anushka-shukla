@@ -1,7 +1,7 @@
 
 ## Hey there, I'm Anushka
 
-- 🌱 I’m currently learning development and DSA.
+- 🌱 I’m currently learning frontend development.
 - 👨‍💻 You can read about me [here](https://anushka-shukla.github.io/) 
 - 📝 Sometimes I write blogs on [Medium](https://medium.com/@anushka-shukla), if you like them don't forget to hit the applaud :grin:. 
 
