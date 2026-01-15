@@ -1,7 +1,7 @@
 
 ## Hey there, I'm Anushka
 
-- 🌱 I’m currently learning frontend development.
+- 🌱 I love learning and building new things everyday.
 - 📝 Sometimes I write blogs on [Medium](https://medium.com/@anushka-shukla), if you like them don't forget to hit the applaud :grin:. 
 
 ## Connect with me
