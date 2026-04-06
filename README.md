@@ -7,7 +7,7 @@
 Few of my Projects:
 
 - [FilterAINoise](https://filterainoise.vercel.app/) : A directory of 500+ manually tested tools. ⚙️
-- [PhonePe AI Tutor](https://phonepe-ai-tutor.vercel.app/): A learning-first, safe, citation-backed tutor that helps users understand investment concepts using verified Share.Market sources.
+- [PhonePe AI Tutor](https://phonepe-ai-tutor.vercel.app/): A learning-first, safe, citation-backed tutor that helps users understand investment concepts using verified Share.Market sources. 🤖
 - [ShitShow](https://frosty-oxide-7763.d.kiloapps.io/): My submissions for the Worst Website Ever hackathon by Kilo. 💩
 - [Stumble](https://stumble-more-like-bumble.vercel.app/): Lets anyone decide and agree upon something be it a place to eat, a place to hang out, or some activity. Supabase Launch week 8 Hackathon (Runner Up) 🧑‍🤝‍🧑
 
